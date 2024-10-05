@@ -77,22 +77,22 @@
         },
         {
             "name": "Postman API",
-            "icon":  "https://img.icons8.com/?size  ='100' id='QEQQKirln6Tf' format='png' color='#00'"
+            "icon":  "https://img.icons8.com/?size=100&id=QEQQKirln6Tf&format=png&color=000000"
         },
         {
             "name":"Python",
-            "icon":"https://img.icons8.com/?size  ='100' id='uLDrtp8o8zTG' format='png' color='#00'"
+            "icon":"https://img.icons8.com/?size=100&id=uLDrtp8o8zTG&format=png&color=000000"
         },
         {
             "name":"ReactJS",
-            "icon":"https://img.icons8.com/?size  ='100' id='t4YbEbA834uH' format='png' color='#00'"
+            "icon":"https://img.icons8.com/?size=100&id=t4YbEbA834uH&format=png&color=000000"
         },
         {
             "name":"Solidworks",
-            "icon":"https://img.icons8.com/?size  ='100' id='m5txniXJj6JV' format='png' color='#00'"
+            "icon":"https://img.icons8.com/?size=100&id=m5txniXJj6JV&format=png&color=000000"
         },
         {
             "name":"Windows",
-            "icon":"https://img.icons8.com/?size  ='100' id='108792' format='png' color='#00'"
+            "icon":"https://img.icons8.com/?size=100&id=108792&format=png&color=000000"
         } 
 ]
