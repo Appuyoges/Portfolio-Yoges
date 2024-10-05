@@ -1,24 +1,15 @@
 [
   {
-    "name": "DESIGN AND IMPLEMENTATION OF TELEROBOT WITH VR TECHNOLOGY USING IoT",
-    "desc": "The aim of this project is to develop a Telerobot to Analyzing the mines ofextraction, collecting samples, and Radioactive waste clearance in nuclear reactors.Virtual Reality (VR) makes us feel the utmost presence of the remote location as possible. The IoT is used to enable communication of data between sensors and micro-controller.",
-    "image": "Telebot",
-    "category": "IoT",
+    "name": "Emial_Spam_Classification",
+    "desc": "The repository Email Spam Classification is a machine learning project aimed at detecting and classifying emails as either spam or non-spam (ham). This project utilizes natural language processing (NLP) techniques to analyze the content of emails and identify patterns indicative of spam. The dataset is processed using various text preprocessing methods, and machine learning algorithms like Naive Bayes or support vector machines (SVM) are applied for classification. The goal is to build an efficient and accurate model to filter out unwanted emails.",
+    "image": "Spam",
+    "category": "AI",
     "links": {
-      "view": "https://www.linkedin.com/in/yogeswaran7475/",
-      "code": "https://github.com/Appuyoges"
+      "view": "https://instagramernstack.herokuapp.com/",
+      "code": "https://github.com/Appuyoges/Emial_Spam_Classification-main"
     }
   },
-  {
-    "name": "CareZen",
-    "desc": "Hospital management system with patient registration, complaints recording, diagnostics, and treatment history.",
-    "image": "CareZen",
-    "category": "web",
-    "links": {
-      "view": "https://www.linkedin.com/in/yogeswaran7475/",
-      "code": "https://github.com/Appuyoges/CareZen"
-    }
-  },
+
   {
     "name": "Pharmacy_Management",
     "desc": "The aim of this project is to develop a software for the effective management of the database of a pharmaceutical store.It would improve the accuracy and enhance safety and efficiency in the pharmaceutical store.This system will help the pharmacist to maintain the records of the medicines, handle user and admin details, check and renew the validity of the medicines and orders placed by the customer.",
@@ -40,16 +31,6 @@
     }
   },
   {
-    "name": "Emial_Spam_Classification",
-    "desc": "The repository Email Spam Classification is a machine learning project aimed at detecting and classifying emails as either spam or non-spam (ham). This project utilizes natural language processing (NLP) techniques to analyze the content of emails and identify patterns indicative of spam. The dataset is processed using various text preprocessing methods, and machine learning algorithms like Naive Bayes or support vector machines (SVM) are applied for classification. The goal is to build an efficient and accurate model to filter out unwanted emails.",
-    "image": "Spam",
-    "category": "AI",
-    "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/Appuyoges/Emial_Spam_Classification-main"
-    }
-  },
-  {
     "name": "SMS_Spam_Classification",
     "desc": "The repository SMS Spam Classification is a machine learning project aimed at detecting and classifying emails as either spam or non-spam (ham). This project utilizes natural language processing (NLP) techniques to analyze the content of emails and identify patterns indicative of spam. The dataset is processed using various text preprocessing methods, and machine learning algorithms like Naive Bayes or support vector machines (SVM) are applied for classification. The goal is to build an efficient and accurate model to filter out unwanted emails.",
     "image": "Spam",
@@ -59,6 +40,27 @@
       "code": "https://github.com/Appuyoges/Emial_Spam_Classification-main"
     }
   },
+  {
+    "name": "DESIGN AND IMPLEMENTATION OF TELEROBOT WITH VR TECHNOLOGY USING IoT",
+    "desc": "The aim of this project is to develop a Telerobot to Analyzing the mines ofextraction, collecting samples, and Radioactive waste clearance in nuclear reactors.Virtual Reality (VR) makes us feel the utmost presence of the remote location as possible. The IoT is used to enable communication of data between sensors and micro-controller.",
+    "image": "Telebot",
+    "category": "IoT",
+    "links": {
+      "view": "https://www.linkedin.com/in/yogeswaran7475/",
+      "code": "https://github.com/Appuyoges"
+    }
+  },
+  {
+    "name": "CareZen",
+    "desc": "Hospital management system with patient registration, complaints recording, diagnostics, and treatment history.",
+    "image": "CareZen",
+    "category": "web",
+    "links": {
+      "view": "https://www.linkedin.com/in/yogeswaran7475/",
+      "code": "https://github.com/Appuyoges/CareZen"
+    }
+  },
+
     {
       "name": "stock-management-system ",
       "desc": "Fstock-management-system.",
