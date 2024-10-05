@@ -1,0 +1,98 @@
+[
+        {
+            "name": "Android Studio",
+            "icon": "https://img.icons8.com/?size=100&id=b5Z5U3tVLQu5&format=png&color=000000"
+        },
+        {
+            "name": "Arduino",
+            "icon": "https://img.icons8.com/?size=100&id=bQNDZ3K3MrLb&format=png&color=000000"
+        },
+        {
+            "name": "AutoCAD",
+            "icon": "https://img.icons8.com/?size=100&id=3OBsfzaTt7ni&format=png&color=000000"
+        },
+        {
+            "name": "AWS",
+            "icon": "https://img.icons8.com/?size=100&id=wU62u24brJ44&format=png&color=000000"
+        },
+        {
+            "name": "C",
+            "icon": "https://img.icons8.com/?size=100&id=2T6TKY6whzgV&format=png&color=000000"
+        },
+        {
+            "name": "Cloud Firestore",
+            "icon": "https://img.icons8.com/?size=100&id=SQEEoDcpUD6c&format=png&color=000000"
+        },
+        {
+            "name": "CNC",
+            "icon": "https://img.icons8.com/?size=100&id=16372&format=png&color=000000"
+        },
+        {
+            "name": "CSS",
+            "icon": "https://img.icons8.com/?size=100&id=5cVdiiKKi0vX&format=png&color=000000"
+        },
+        {
+            "name": "Figma",
+            "icon": "https://img.icons8.com/?size=100&id=8EbY3Bnfw0aL&format=png&color=000000"
+        },
+        {
+            "name": "Firebase",
+            "icon": "https://img.icons8.com/?size=100&id=62452&format=png&color=000000"
+        },
+        {
+            "name": "GitHub",
+            "icon": "https://img.icons8.com/?size=100&id=52539&format=png&color=000000"
+        },
+        {
+            "name": "HTML",
+            "icon": "https://img.icons8.com/?size=100&id=59916&format=png&color=000000"
+        },
+        {
+            "name": "Java",
+            "icon": "https://img.icons8.com/?size=100&id=FRRACRKRsw2s&format=png&color=000000"
+        },
+        {
+            "name": "JavaScript",
+            "icon": "https://img.icons8.com/?size=100&id=Nkym0Ujb8VGI&format=png&color=000000"
+        },
+        {
+            "name": "Linux",
+            "icon": "https://img.icons8.com/?size=100&id=17842&format=png&color=000000"
+        },
+        {
+            "name": "MongoDB",
+            "icon": "https://img.icons8.com/?size=100&id=o6OvAxG0nzTH&format=png&color=000000"
+        },
+        {
+            "name": "MySQL",
+            "icon": "https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=#00000"
+        },
+        {
+            "name": "PHP",
+            "icon": "https://img.icons8.com/?size=100&id=X7FN58oJ9olC&format=png&color=#00000"
+        },
+        {
+            "name": "PLC",
+            "icon": "https://img.icons8.com/?size=100&id=bQbX7tMYRcoT&format=png&color=#00000"
+        },
+        {
+            "name": "Postman API",
+            "icon":  "https://img.icons8.com/?size  ='100' id='QEQQKirln6Tf' format='png' color='#00'"
+        },
+        {
+            "name":"Python",
+            "icon":"https://img.icons8.com/?size  ='100' id='uLDrtp8o8zTG' format='png' color='#00'"
+        },
+        {
+            "name":"ReactJS",
+            "icon":"https://img.icons8.com/?size  ='100' id='t4YbEbA834uH' format='png' color='#00'"
+        },
+        {
+            "name":"Solidworks",
+            "icon":"https://img.icons8.com/?size  ='100' id='m5txniXJj6JV' format='png' color='#00'"
+        },
+        {
+            "name":"Windows",
+            "icon":"https://img.icons8.com/?size  ='100' id='108792' format='png' color='#00'"
+        } 
+]
